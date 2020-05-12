@@ -8,7 +8,7 @@
 - 1 poignee de coriandre fraiche
 - 2 c-a-s farine de pois chiches
 - 2 c-a-c garam masala
-- sel (quantite a determiner)
+- sel (quantite a determiner, 2 c-a-c = TROP)
 - huile de friture
 
 ### Preparation
