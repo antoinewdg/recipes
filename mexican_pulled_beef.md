@@ -22,12 +22,12 @@
 ### Préparation
 
 - mélanger les épices
-- masser la viande avec une partie des épices + huile d'olive
+- masser de huile d'olive
 - couper les oignons en dés
 - écraser l'ail
 
 ### Cuisson
 
 - saisir la viande
-- faire revenir les oignons
+- faire revenir les oignons, a la fin l'ail et les épices
 - tout mettre dans une marmite, cuisson lente
