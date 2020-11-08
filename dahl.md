@@ -11,6 +11,7 @@
 - 1/2 c-a-c cumin
 - 2 c-a-c curcuma
 - 1 c-a-c garam masala
+- 2 fois le volume de lentilles en eau
 
 ### Preparation
 
