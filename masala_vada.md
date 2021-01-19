@@ -8,17 +8,20 @@
 - 1 poignee de coriandre fraiche
 - 2 c-a-s farine de pois chiches
 - 2 c-a-c garam masala
-- sel (quantite a determiner, 2 c-a-c = TROP)
+- sel (quantite a determiner, 6.5g = trop, essayer 5g)
 - huile de friture
 
 ### Preparation
 
-- rincer les lentilles, laisser tremper de 2h a une nuit
-- couper oignons en ~8
+- rincer les lentilles, laisser tremper 2h
+- emincer les oignons
 - eplucher l'ail
-- tout mixer ensemble
 
 ### Cuisson
 
+- faire revenir les oignons
+- ajouter les épices et l'ail
+- mixer tout sauf le lentilles
+- ajouter les lentilles, mixer grossièrement
 - faire frire
 
