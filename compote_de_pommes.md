@@ -13,6 +13,6 @@
 
 ### Cuisson
 
-- mettre les pommes et l'eau sur feu doux 30 min
+- sous pression 4min
 - ajouter la canelle
 - mixer
