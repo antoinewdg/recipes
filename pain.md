@@ -1,10 +1,10 @@
 ## Ingrédients
 
-- 160g de farine
-- 1/3 de sachet de levure
-- 1 petite pincée de surce
-- 80 à 100 mL d'eau
-- 1/3 c-a-c de sel
+- 500g de farine
+- 1 de sachet de levure
+- 1 pincée de surce
+- ~250mL d'eau
+- 8g de sel
 
 ## Préparation
 
@@ -26,7 +26,12 @@
 
 - préchauffer le four à 250°C
 - mettre une coupelle d'eau sur le lèche frites
-- cuisson ~30 min (faire moins car petite dose)
+- cuisson ~30 min
+
+## Notes
+
+- dur de faire vraiment gonfler :(
+
 
 
 (source: https://lacuisinedannie.20minutes.fr/recette-boule-de-pain-de-campagne-a-la-main-182.html)
