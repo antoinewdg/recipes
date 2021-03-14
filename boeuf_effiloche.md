@@ -1,6 +1,6 @@
-## Boeuf effiloche
+## Boeuf effiloché
 
-### Ingredients
+### Ingrédients
 
 - 1.5 kg de boeuf (paleron, onglet, joue)
 - 1 oignon
@@ -18,7 +18,7 @@
 
 ### Preparation
 
-- saler le bouef 1.5j en avance
+- saler le boeuf 1.5j en avance
 - couper le boeuf en gros des
 - couper l'oignon en lamelles
 - couper le poivron en des

@@ -1,4 +1,6 @@
-## Ingrédients
+## Pain
+
+### Ingrédients
 
 - 500g de farine
 - 1 de sachet de levure
@@ -6,7 +8,7 @@
 - ~250mL d'eau
 - 8g de sel
 
-## Préparation
+### Préparation
 
 - laisser reposer la levure et le sucre 15min dans 10mL d'eau
 - mélanger à la cuiller en bois puis à la main:
@@ -22,13 +24,13 @@
 
 - faire des incisions au coutreau sur le haut du pain
 
-## Cuisson
+### Cuisson
 
 - préchauffer le four à 250°C
 - mettre une coupelle d'eau sur le lèche frites
 - cuisson ~30 min
 
-## Notes
+### Notes
 
 - dur de faire vraiment gonfler :(
 

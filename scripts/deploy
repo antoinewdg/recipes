@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+scripts_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
+build_dir="$( dirname "$scripts_dir")/build"
+
+pushd "$scripts_dir"
+poetry run python main.py
+popd
+
+pushd "$build_dir"
+git add --all
+git commit -m "$(date --iso-8601=seconds)"
+git push origin gh-pages
+popd
