@@ -17,7 +17,8 @@ def main():
     for path in sorted(root_path.glob("*")):
         output_folder_path = output_path / path.parent.relative_to(root_path)
 
-        if path.suffix == ".css":
+        if path.suffix in {".css", ".webmanifest", ".xml", ".png", ".ico"}:
+            print(path)
             shutil.copy(path, output_folder_path / path.name)
         elif path.suffix == ".md":
             body = markdown(path.read_text())
@@ -83,12 +84,26 @@ _HTML_TEMPLATE = """
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
   <title>Recettes de toto</title>
+  
   <link rel="stylesheet" href="reset.css">
   <link rel="stylesheet" href="style.css">
+  
+  <!-- favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
 </head>
 <body>
     <div class="container">
-        {body}
+        <section class="content">{body}</section>
+        <footer>
+            Favicon made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a>
+            from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+        </footer>
     </div>
 </body>
 </html>
