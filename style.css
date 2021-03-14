@@ -17,11 +17,31 @@ h3 {
 }
 
 .container {
+  display: flex;
+  flex-direction: column;
+
   min-height: 100vh;
   background: white;
   max-width: 1200px;
   margin: auto;
-  padding: 1rem;
+}
+
+section.content {
+  flex: 1;
+  margin: 1rem;
+}
+
+@media (min-width: 600px) {
+  .content {
+    margin: 1.5rem 2rem;
+  }
+}
+
+footer {
+  font-size: 75%;
+  text-align: center;
+
+  margin-bottom: 0.5rem;
 }
 
 ul {
@@ -31,10 +51,4 @@ ul {
 a {
   color: #69432a;
   text-decoration: none;
-}
-
-@media (min-width: 600px) {
-  .container {
-    padding: 1.5rem 2rem;
-  }
 }
