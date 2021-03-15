@@ -6,7 +6,7 @@
 - 4 oignons
 - 1 boîte de concentré de tomates
 - 1/2 boîte de tomates pelées
-- 1/4 c-a-c piment en poudre
+- 0.300g piment en poudre
 - 4 gousses d'ail
 - 300g beurre cacahuete
 - 1L d'eau
