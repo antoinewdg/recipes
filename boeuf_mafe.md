@@ -22,5 +22,5 @@
 - dans une cocotte faire revenir les oignons
 - ajouter les épices et l'ail
 - déglacer avec l'eau, ajouter le reste
-- mettre la cocotte au four, jusqu'à température interne 60°C
+- mettre la cocotte au four à 95°C, jusqu'à température interne 60°C (pas assez cuit, essayer plus)
 

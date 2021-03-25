@@ -10,6 +10,7 @@ Pour 2 personnes:
 - vin blanc
 - 1/2 pot de crème fraîche
 - beurre
+- 3.1g de sel
 
 ### Préparation
 
@@ -23,4 +24,5 @@ Pour 2 personnes:
 - déglacer avec un peu de vin blanc
 - ajouter la crème
 - laisser mijoter un peu
+- saler
 - faire griller le pain

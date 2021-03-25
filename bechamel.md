@@ -5,6 +5,7 @@
 - 50g farine
 - 50g beurre
 - 50cl de lait
+- 2g de sel
 
 ### Cuisson
 
