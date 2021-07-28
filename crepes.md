@@ -5,10 +5,11 @@
 Pour 10 crêpes
 
 - 250g farine
+- 450ml de lait
 - 3 oeufs
 - 40g beurre fondu
 - 2 c-a-s de sucre
-- 3g de sel (à essayer !)
+- 4g de sel (à essayer !)
 
 ## Galettes bretonnes
 
