@@ -27,7 +27,7 @@ def main():
 
             bs = BeautifulSoup(html_content, "html.parser")
             document = HtmlDocument(bs)
-            main_title = document.get_one("h2")
+            main_title = document.get_first("h2")
 
             recipe = Recipe(
                 title=str(main_title.soup.string),
@@ -59,7 +59,15 @@ class HtmlDocument:
         if len(result) == 1:
             return HtmlDocument(result[0])
         else:
-            raise RuntimeError(f"Expected exactly one '{selector}', got {len(result )}")
+            raise RuntimeError(f"Expected exactly one '{selector}', got {len(result)}")
+
+    def get_first(self, selector: str) -> HtmlDocument:
+        result = self.soup.select(selector)
+        if len(result) >= 1:
+            return HtmlDocument(result[0])
+        else:
+            raise RuntimeError(f"Expected at least one '{selector}', got {len(result)}")
+
 
     def query_one(self, selector: str) -> Optional[HtmlDocument]:
         result = self.soup.select(selector)
@@ -82,12 +90,12 @@ _HTML_TEMPLATE = """
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Recettes de toto</title>
-  
+
   <link rel="stylesheet" href="reset.css">
   <link rel="stylesheet" href="style.css">
-  
+
   <!-- favicon -->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
