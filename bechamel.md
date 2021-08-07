@@ -6,6 +6,7 @@
 - 50g beurre
 - 50cl de lait
 - 2g de sel
+- 0.5g de muscade moulue
 
 ### Cuisson
 
