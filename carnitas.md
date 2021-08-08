@@ -1,4 +1,6 @@
-## Ingredients
+## Carnitas
+
+### Ingredients
 
 - 1.5kg d'échine de porc
 - 3 citrons verts
@@ -21,6 +23,6 @@
 
 ### Cuisson
 
-- 2h au four a 165° (TODO: essayer 6h à 90°)
+- cuisson au four à 120°, jusqu'à une temp interne de 88° (après repos)
 - mettre au grill (tourner + arroser toutes les 5min)
 - reduire la sauce si besoin
