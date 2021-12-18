@@ -6,6 +6,7 @@
 - ail
 - huile d'olive
 - herbes de provence
+- sel (0.4g / 100g patates)
 
 ### Preparation
 

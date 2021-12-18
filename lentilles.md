@@ -4,6 +4,7 @@
 
 - 200 ml de lentilles crues
 - 1/2 oignon
+- sel (2.3g / 100g de lentilles)
 
 ### Preparation
 

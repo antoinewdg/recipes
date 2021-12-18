@@ -14,4 +14,4 @@
 ### Cuission
 
 - préchauffer four à 210°C
-- temperature à coeur 75°C (sonde à l'avant dans le blanc)
+- temperature à coeur 78°C (sonde à l'avant dans le blanc)
