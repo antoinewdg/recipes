@@ -1,18 +1,21 @@
 from __future__ import annotations
-from typing import Optional, List
-from pathlib import Path
-from dataclasses import dataclass
+
 import shutil
-from markdown import markdown
+from dataclasses import dataclass
+from pathlib import Path
+from typing import List, Optional
+
 from bs4 import BeautifulSoup
+from markdown import markdown
 
 
 def main():
-    root_path = Path(__file__).parent.parent
+    root_path = Path(__file__).absolute().parent.parent
     output_path = root_path / "build"
     output_path.mkdir(parents=True, exist_ok=True)
 
     recipes = []
+    print("ROOT", root_path.absolute())
 
     for path in sorted(root_path.glob("*")):
         output_folder_path = output_path / path.parent.relative_to(root_path)
@@ -67,7 +70,6 @@ class HtmlDocument:
             return HtmlDocument(result[0])
         else:
             raise RuntimeError(f"Expected at least one '{selector}', got {len(result)}")
-
 
     def query_one(self, selector: str) -> Optional[HtmlDocument]:
         result = self.soup.select(selector)
